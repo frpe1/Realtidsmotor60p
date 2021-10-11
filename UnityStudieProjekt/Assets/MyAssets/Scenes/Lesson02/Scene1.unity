@@ -692,6 +692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sun
       objectReference: {fileID: 0}
+    - target: {fileID: 3317146527949030243, guid: 67361d73d0631fc429149a8ced1cc383, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3317146527949030253, guid: 67361d73d0631fc429149a8ced1cc383, type: 3}
       propertyPath: m_RootOrder
       value: 1
