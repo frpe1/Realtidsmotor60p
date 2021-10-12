@@ -12,7 +12,7 @@ public class MyTestScript : MonoBehaviour
 
         Debug.Log("This is second message");
 
-        // Ändrar namnet på kubobjektet
+        // ?ndrar namnet p? kubobjektet
         transform.name = "SUPERCUBE";
 
         transform.position = new Vector3(5.0f, 0.0f, 0.0f);
@@ -46,7 +46,7 @@ public class MyTestScript : MonoBehaviour
 
         */
 
-        // Detta är sättet för att läsa av tagentbordstryckningen "space"
+        // Detta ?r s?ttet f?r att l?sa av tagentbordstryckningen "space"
         if ( Input.GetKeyDown(KeyCode.Space) ) {
             Debug.Log("Du tryckte ned space tagenten");
         }
